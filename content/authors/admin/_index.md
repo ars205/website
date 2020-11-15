@@ -10,22 +10,22 @@ role: PhD Student in Deep Learning Wireless Locazation
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: TU Wien
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Wireless Localization
+- Deep Learning
+- 5G
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Deep Learning Wireless Localization
     institution: TU Wien
-    year: 2022
+    year: []
   - course: MSc in Telecommunications
     institution: University of Pittsburgh
     year: 2016
