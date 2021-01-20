@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-PhD Student. TBC.
+PhD Student. TBC. Soon!
