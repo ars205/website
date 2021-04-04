@@ -6,7 +6,7 @@ title: Artan Salihu
 superuser: true
 
 # Role/position
-role: PhD Student in Deep Learning Wireless Locazation
+role: PhD Student in Deep Learning Wireless Localization
 
 # Organizations/Affiliations
 organizations:
